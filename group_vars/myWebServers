@@ -1,0 +1,5 @@
+---
+mywebpackonubuntu: apache2
+mywebpackonredhat: httpd
+myjavapackonubuntu: openjdk-17-jdk
+myjavapackonredhat: java-17-amazon-correto
